@@ -1,0 +1,52 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#firstmaptileset": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 0.5422916666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 682.2896657702651,
+                "y": 297.81021897810217
+            }
+        },
+        "map.tmx#Gametiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Python/GameCode0.1/assets/images/levelmaps",
+    "last.externalTilesetPath": "C:/Users/Stefan/Downloads",
+    "last.imagePath": "C:/Users/Stefan/Downloads/Tilesheet",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.tileHeight": 48,
+    "map.tileWidth": 48,
+    "map.width": 15,
+    "openFiles": [
+    ],
+    "project": "tiled.tiled-project",
+    "recentFiles": [
+        "map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "All Files (*)",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}
